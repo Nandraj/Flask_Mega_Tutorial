@@ -66,6 +66,7 @@ instance/
 .webassets-cache
 ## other flask stuff
 app.db
+logs/
 
 # Scrapy stuff:
 .scrapy
